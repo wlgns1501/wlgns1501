@@ -11,7 +11,7 @@ I like active, so I like to playing soccer ⚽️
 
 I want to develop life style service that is helpful in people's life!
 
-I'm learning Djnago and Django Rest Framework
+I'm learning jest
 
 **👍 Skills**
 
